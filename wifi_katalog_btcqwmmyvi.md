@@ -1,2 +1,2 @@
-# wifi\_katalog\_btcqwmmyvi
+# Каталог товаров wifi.kz - часть 4
 

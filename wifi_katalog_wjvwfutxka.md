@@ -1,2 +1,2 @@
-# wifi\_katalog\_wjvwfutxka
+# Каталог товаров wifi.kz - часть 6
 

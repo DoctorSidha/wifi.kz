@@ -1,2 +1,2 @@
-# wifi\_katalog\_wozcoooqao
+# Каталог товаров wifi.kz - часть 5
 
