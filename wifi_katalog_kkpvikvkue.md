@@ -10838,7 +10838,7 @@ Station WDS / WISP / Access Point / Repeater / Access Point WDS / Wireless route
 
 #### Остатки 1С:
 
-11
+9
 
 #### Источник остатков:
 
@@ -38132,7 +38132,7 @@ Al Style
 
 #### Остатки поставщиков:
 
-40
+39
 
 #### Источник остатков:
 
